@@ -1,0 +1,435 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "dissertation.tex",
+			"settings":
+			{
+				"buffer_size": 2446,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 1717,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "thesisBuilder.py",
+			"settings":
+			{
+				"buffer_size": 1839,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "thesis-template.sublime-project",
+			"settings":
+			{
+				"buffer_size": 316,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/LaTeXTools/LaTeX.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"LaTexTools:C",
+				"LaTeXTools: Check system"
+			],
+			[
+				"LaTexTools:Re",
+				"LaTeXTools: Reset user settings to default"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"a",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Paolo Gabriel/Documents/workspace/thesis-ucsd-2019"
+	],
+	"file_history":
+	[
+		"/C/Users/Paolo Gabriel/AppData/Roaming/Sublime Text 3/Packages/LaTeXTools/LaTeXTools.sublime-settings",
+		"/C/Users/Paolo Gabriel/Documents/workspace/thesis-ucsd-2019/thesis-template.sublime-project",
+		"/C/Users/Paolo Gabriel/Documents/workspace/thesis-template/thesis-template.sublime-project",
+		"/C/Users/Paolo Gabriel/Documents/workspace/thesis-template/chapters/ch3.tex",
+		"/C/Users/Paolo Gabriel/Documents/workspace/thesis-template/chapters/ch1.tex",
+		"/C/Users/Paolo Gabriel/Documents/workspace/thesis-template/chapters/ch2.tex",
+		"/C/Users/Paolo Gabriel/Documents/workspace/thesis-template/thesisBuilder.py",
+		"/C/Users/Paolo Gabriel/Documents/workspace/thesis-template/chapters/ch1.aux",
+		"/C/Users/Paolo Gabriel/AppData/Roaming/Sublime Text 3/Packages/LaTeXTools/builders/thesisBuilder.py",
+		"/C/Users/Paolo Gabriel/AppData/Roaming/Sublime Text 3/Packages/User/LaTeXTools.sublime-settings",
+		"/C/Program Files/Sublime Text 3/Packages/User/LaTeXTools-Builders/thesis_builder.py",
+		"/C/Program Files/Sublime Text 3/Packages/User/LaTeXTools-Builders/thesisBuilder.py",
+		"/C/Users/Paolo Gabriel/Documents/thesis-pgabriel/chapters/ch1.aux",
+		"/C/Users/Paolo Gabriel/Documents/thesis-pgabriel/dissertation.sublime-project",
+		"/C/Users/Paolo Gabriel/Documents/thesis-pgabriel/thesisBuilder.py",
+		"/C/Users/Paolo Gabriel/Documents/thesis-pgabriel/chapters/ch1.tex",
+		"/C/Users/Paolo Gabriel/Documents/thesis-pgabriel/main.tex",
+		"/C/Users/Paolo Gabriel/Documents/thesis-pgabriel/prelim/epigraph.tex",
+		"/C/Users/Paolo Gabriel/Documents/thesis-pgabriel/prelim/author_info.tex",
+		"/C/Users/Paolo Gabriel/Documents/thesis-pgabriel/ch2.tex",
+		"/C/Users/Paolo Gabriel/Documents/thesis-pgabriel/ch1.tex",
+		"/C/Users/Paolo Gabriel/Documents/thesis-pgabriel/preliminary/vita.tex",
+		"/C/Users/Paolo Gabriel/Documents/thesis-pgabriel/preliminary/acknowledgements.tex",
+		"/C/Users/Paolo Gabriel/Documents/thesis-pgabriel/ch2.bib",
+		"/C/Users/Paolo Gabriel/Documents/thesis-pgabriel/ch1.aux",
+		"/C/Users/Paolo Gabriel/Documents/thesis-pgabriel/bib.bib",
+		"/C/Users/Paolo Gabriel/Documents/thesis-pgabriel/_template/ch2.tex",
+		"/C/Users/Paolo Gabriel/Documents/thesis-pgabriel/_template/ch1.tex",
+		"/C/Users/Paolo Gabriel/Documents/thesis-pgabriel/_template/ch1.aux",
+		"/C/Users/Paolo Gabriel/Documents/thesis-pgabriel/_template/dissertation.tex",
+		"/C/Users/Paolo Gabriel/Documents/thesis-pgabriel/_template/ch2.bib",
+		"/C/Users/Paolo Gabriel/Documents/thesis-pgabriel/dissertation.tex",
+		"/C/Users/Paolo Gabriel/Documents/thesis-pgabriel/ch2_system.tex",
+		"/C/Users/Paolo Gabriel/Documents/thesis-pgabriel/ch1_introduction.tex",
+		"/C/Users/Paolo Gabriel/Documents/thesis-pgabriel/ucsd.cls",
+		"/C/Users/Paolo Gabriel/Documents/thesis-pgabriel/_template/unsrt.bst",
+		"/C/Users/Paolo Gabriel/Documents/thesis-pgabriel/_template/img/README.md"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "dissertation.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2446,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2189,
+								2189
+							]
+						],
+						"settings":
+						{
+							"markdonw_live_preview_last_run": 1562970652.94,
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 974.888888889,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1717,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								35,
+								35
+							]
+						],
+						"settings":
+						{
+							"markdonw_live_preview_last_run": 1562971040.03,
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "thesisBuilder.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1839,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								428,
+								428
+							]
+						],
+						"settings":
+						{
+							"markdonw_live_preview_last_run": 1562970910.9,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "thesis-template.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 316,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								313,
+								313
+							]
+						],
+						"settings":
+						{
+							"markdonw_live_preview_last_run": 1562970706.39,
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 39.2
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.latextools":
+	{
+		"height": 96.0
+	},
+	"pinned_build_system": "",
+	"project": "thesis-template.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 273.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
